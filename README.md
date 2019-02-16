@@ -10,6 +10,7 @@ To compile type this into the terminal:
 	javac AlohaWorld.java
 
 Then to run the program just type:
+
 	java AlohaWorld
 
 The java command does not need to add the .class extension in the program argument.
